@@ -12,10 +12,10 @@ Aspiring Full-Stack Engineer
 * 📍 Location: Based in Gujranwala, Punjab, PK.
 * ✉️ You can reach me at saadstudent.cs@gmail.com.
 
-![](https://komarev.com/ghpvc/?username=designerd-pk&color=10b981&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=codesBySaad&color=10b981&style=for-the-badge)
 <br />
-<a href="https://www.github.com/designerd-pk" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/designerd-pk?logo=github&style=for-the-badge&color=10b981&labelColor=1c1917" /></a>
+<a href="https://www.github.com/codesBySaad" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/codesBySaad?logo=github&style=for-the-badge&color=10b981&labelColor=1c1917" /></a>
 
 ### Skills
 
@@ -45,7 +45,7 @@ src="https://img.shields.io/github/followers/designerd-pk?logo=github&style=for-
   <a href="https://www.dev.to/itxsaaad" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a> 
   <a href="https://discord.com/users/itxSleipnir#1134" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> 
   <a href="https://www.facebook.com/patheticsaad98t" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> 
-  <a href="https://www.github.com/designerd-pk" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> 
+  <a href="https://www.github.com/codesBySaad" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> 
   <a href="http://www.instagram.com/m.saad_45" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> 
   <a href="https://www.linkedin.com/in/itxSaaad" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
   <a href="https://www.twitter.com/itxSaaad" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
@@ -55,13 +55,13 @@ src="https://img.shields.io/github/followers/designerd-pk?logo=github&style=for-
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/designerd-pk"><img src="https://github-readme-stats.vercel.app/api?username=designerd-pk&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=10b981&bg_color=1c1917&hide_border=true&show_icons=true" alt="designerd-pk's GitHub stats" /></a>
+<a href="http://www.github.com/codesBySaad"><img src="https://github-readme-stats.vercel.app/api?username=codesBySaad&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=10b981&bg_color=1c1917&hide_border=true&show_icons=true" alt="codesBySaad's GitHub stats" /></a>
 
-<a href="http://www.github.com/designerd-pk"><img src="https://github-readme-streak-stats.herokuapp.com/?user=designerd-pk&stroke=ffffff&background=1c1917&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/codesBySaad"><img src="https://github-readme-streak-stats.herokuapp.com/?user=codesBySaad&stroke=ffffff&background=1c1917&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/designerd-pk"><img src="https://activity-graph.herokuapp.com/graph?username=designerd-pk&bg_color=1c1917&color=ffffff&line=10b981&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/codesBySaad"><img src="https://activity-graph.herokuapp.com/graph?username=codesBySaad&bg_color=1c1917&color=ffffff&line=10b981&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<a href="https://github.com/designerd-pk" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=designerd-pk&langs_count=10&title_color=ef4444&text_color=ffffff&icon_color=10b981&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/codesBySaad" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codesBySaad&langs_count=10&title_color=ef4444&text_color=ffffff&icon_color=10b981&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 ### Support Me
 
